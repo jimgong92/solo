@@ -17,28 +17,28 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## Heading ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
+  > Philotes
 
 ## Sub-Heading ##
-  > Describe who the market for the product is and what benefit they get. One sentence only underneath the title.
+  > Friends learn faster
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
+  > Using information about the social network of the classroom, this program will produce the optimal schedule for pairing students in projects. The optimal schedule will be the one that minimizes the predicted bullying in the network. By minimizing bullying, you can foster a more comfortable environment for both the teacher and the students.
 
 ## Problem ##
-  > Describe the problem your product solves.
+  > Studies conducted on elementary school classrooms indicate that bullying is reduced by a statistically significant margin when bullies are within a geodesic of 2 (friend-of-a-friend status) of a potential victim within the peer network. Left unattended, youth peer networks continuously fragment over time, aggravating the existing bullying and creating more opportunities for bullying.
 
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
+  > Studies conducted on elementary school classrooms indicate that projects where students work in pairs reliably develop a friendly relationship where projects involving 3 or more students do not. Using given information about the current status of the classroom's social network, the program will process all the possible pair combinations in the impending group project schedule and return the optimal pairing schedule. 
 
 ## Quote from You ##
-  > A quote from a spokesperson in your company.
+  > This is not a one-click payoff application. This is a product for teachers who are passionate about creating a good classroom environment and care about their students. 
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
+  > Fill out the data input fields regarding the social network of the classroom and simply submit the data.
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
+  > Ever since I used this product, my classrooms have never been the same! I think of children as mean little creatures no longer!
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
+  > Download Philotes and teaching will never be the same!
